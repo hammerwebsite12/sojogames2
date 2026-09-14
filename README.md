@@ -2,7 +2,9 @@
 
 Steam Depot Manifest Cache
 
-Update time: `2025-07-24`
+Update time: `2026-09-14`
+
+<!-- Crimson Desert 3321460: setManifestid pins synced to Steam build 25246367 (Sep 11, 2026). Stale .manifest binaries removed; use Sync Engine or SteamKit2 for latest manifest files. -->
 
 ## 致倒卖者/Note for resellers
 
